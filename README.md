@@ -1,6 +1,6 @@
 # 🛡️ Guardian AI
 
-Guardian AI is an AI-powered safety and assistance application designed to provide women with quick access to emergency support, location-based assistance, and intelligent safety features.
+Guardian AI is an AI-powered safety and assistance mobile application designed to provide women with quick access to emergency support, location-based assistance, and intelligent safety features.
 
 ## 📌 Features
 
