@@ -1,6 +1,6 @@
 # 🛡️ Guardian AI
 
-Guardian AI is an AI-powered safety and assistance mobile application designed to provide women with quick access to emergency support, location-based assistance, and intelligent safety features.
+Guardian AI is an AI-powered safety and assistance mobile application designed to provide users with quick access to emergency support, location-based assistance, and intelligent safety features.
 
 ## 📌 Features
 
@@ -81,7 +81,7 @@ flutter run
 
 ## 🎯 Objective
 
-The main objective of Guardian AI is to create a smart and accessible safety solution that can help women respond quickly during emergency situations and provide useful AI-based assistance.
+The main objective of Guardian AI is to create a smart and accessible safety solution that can help users respond quickly during emergency situations and provide useful AI-based assistance.
 
 ## 🔮 Future Scope
 
